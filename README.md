@@ -63,7 +63,7 @@ This HR Analytics project provides a comprehensive analysis of employee data to 
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](C:\Users\amani\Documents\Projects\HR Analyitics Dashboard\image.png)
 
 > Includes metrics like attrition %, average salary, avg. years at company, job satisfaction, and role-based insights.
 
